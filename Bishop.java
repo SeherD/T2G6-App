@@ -18,7 +18,6 @@ public class Bishop extends ChessPiece {
             id = 'b';
         }
     }
-
     /** Checks if more is valid for Bishop, then moves the piece.
      * @return Valid move or not.
      */
